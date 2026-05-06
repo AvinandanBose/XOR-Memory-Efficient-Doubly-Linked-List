@@ -530,3 +530,10 @@ If you found this helpful:
 * 📢 Share with others
 
 ---
+
+<br>
+<br>
+<br>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/MemEffDoublyLinkedList.cpp">𝑬.𝒂. 𝑿𝑶𝑹 𝑴𝒆𝒎𝒐𝒓𝒚 𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a> 𝒊𝒏 <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/">𝑪++ 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝑹𝒆𝒑𝒐</a></h3>
+
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/MemEffDoublyLinkedListWithClass.cpp">𝑬.𝒃. 𝑿𝑶𝑹 𝑴𝒆𝒎𝒐𝒓𝒚 𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a> 𝒊𝒏 <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/">𝑪++ 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝑹𝒆𝒑𝒐</a></h3>
